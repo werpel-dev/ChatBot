@@ -28,5 +28,8 @@ Este projeto foi desenvolvido como prática de:
 
 ## Como executar
 
-```bash
-python main.py
+Assistir ao vídeo do Protótipo sendo usado. 
+
+## Melhorias
+
+Será adicionado melhorias na estetica e fluxo de mensagens, onde será alimentado para trazer mais dinâmica ao usuário.
