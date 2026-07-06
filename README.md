@@ -28,8 +28,8 @@ Este projeto foi desenvolvido como prática de:
 
 ## Como executar
 
-Assistir ao vídeo do Protótipo sendo usado. 
+Primeiramente abrir em phyton, inicia-se com a palavra "oi", segundo escreva a frase "qual materia?" que o chatbot irá te responder. Assista o vídeo para te ajudar.
 
 ## Melhorias
 
-Será adicionado melhorias na estetica e fluxo de mensagens, onde será alimentado para trazer mais dinâmica ao usuário.
+Será adicionado melhoria, como Segurança da Informação, Banco de Dados e interface melhorada.
