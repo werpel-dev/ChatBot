@@ -112,4 +112,4 @@ Além disso, o projeto representa um importante passo na construção do meu por
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Noeme Werpel** como projeto de estudos durante a graduação em **Engenharia de Software**, com o objetivo de fortalecer conhecimentos em programação, desenvolvimento de aplicações desktop e construção de soluções utilizando Python.
+Desenvolvido por **Noeme Werpel Silva** como projeto de estudos durante a graduação em **Engenharia de Software**, com o objetivo de fortalecer conhecimentos em programação, desenvolvimento de aplicações desktop e construção de soluções utilizando Python.
